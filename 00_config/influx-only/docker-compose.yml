@@ -1,0 +1,8 @@
+version: '3'
+services:
+  influxdb:
+    image: "influxdb:1.5.1"
+    ports:
+      - 8086:8086
+    volumes:
+      - ../config_root/etc/influxdb:/etc/influxdb
