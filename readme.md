@@ -7,7 +7,7 @@ Welcome to the source code repository of the udemy course: **Master timeseries b
 
 [Run python script](#run-python) 
 
-[Influxdb project 1: Write and read temperatures using the influxdb REST api](01_write_and_read_temperature/01_readme.md)
+[Influxdb project 1: Write and read temperatures using the influxdb REST api](01_write_and_read_temperature/readme.md)
 
  
 ## <a name="install"> </a> Install ##
